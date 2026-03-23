@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" />
+  <img src="assets/icon.png" width="120" />
 </p>
 <h1 align="center">Timeline</h1>
 <p align="center">
 A fast, simple, and modern video player built for everyday use.
 </p>
----
 
 ## 🚀 Features
 
