@@ -48,7 +48,8 @@ Download the latest version from the **Releases** section.
 
 ## 💡 Why Timeline?
 
-Most video players are either slow, outdated, or bloated.
+Most video players are slow, outdated, bloated, or just hard to use.
+I felt the same, so I built Timeline — and now I’m sharing it with you.
 
 Timeline focuses on:
 - speed  
