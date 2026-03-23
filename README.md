@@ -1,2 +1,67 @@
-# Timeline-Video-Player
-Just download and use from releases :)
+# Timeline
+
+A fast, simple, and modern video player built for everyday use.
+
+---
+
+## 🚀 Features
+
+- ⚡ **Fast** – opens videos instantly  
+- 🔄 **Auto updates** – always up to date  
+- 🎯 **Simple UI** – easy to use, no clutter  
+- ⌨️ **Custom hotkeys** – control your way  
+- ✂️ **Trim videos** – quick editing built-in  
+- 🆓 **Free** – no cost, no paywalls  
+
+---
+
+## 🖥️ Platform
+
+Currently supported:
+- Windows 10  
+- Windows 11  
+
+*(Support for other platforms may come later)*
+
+---
+
+## 🔒 Privacy
+
+Timeline does **not collect personal data**.
+
+The app only collects minimal analytics to improve performance:
+- IP address  
+- Device/software info  
+- App usage events  
+- Video metadata (duration, file type)
+
+No personal files or sensitive data are accessed or stored.
+
+---
+
+## 📦 Download
+
+Download the latest version from the **Releases** section.
+
+---
+
+## 💡 Why Timeline?
+
+Most video players are either slow, outdated, or bloated.
+
+Timeline focuses on:
+- speed  
+- simplicity  
+- clean experience  
+
+---
+
+## 🛠️ Status
+
+Actively being developed and improved.
+
+---
+
+## ❤️ Feedback
+
+If you like it or have suggestions, feel free to email me at sukritthakur821@gmail.com
