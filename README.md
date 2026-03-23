@@ -15,7 +15,8 @@ A fast, simple, and modern video player built for everyday use.
 - ✂️ **Trim videos** – quick editing built-in  
 - 🆓 **Free** – no cost, no paywalls  
 
----
+## 📸 Preview
+![Preview 1](assets/preview.png)
 
 ## 🖥️ Platform
 
