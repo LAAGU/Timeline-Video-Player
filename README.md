@@ -34,6 +34,7 @@ The app only collects minimal analytics to improve performance:
 - Device/software info  
 - App usage events  
 - Video metadata (duration, file type)
+- Errors
 
 No personal files or sensitive data are accessed or stored.
 
