@@ -3,17 +3,23 @@
 </p>
 <h1 align="center">Timeline</h1>
 <p align="center">
-A fast, simple, and modern video player built for everyday use.
+A fast, simple, and modern media player built for everyday use.
 </p>
 
 ## 🚀 Features
 
-- ⚡ **Fast** – opens videos instantly  
+- ⚡ **Fast** – opens files instantly  
 - 🔄 **Auto updates** – always up to date  
 - 🎯 **Simple UI** – easy to use, no clutter  
 - ⌨️ **Custom hotkeys** – control your way  
-- ✂️ **Trim videos** – quick editing built-in  
-- 🆓 **Free** – no cost, no paywalls  
+- ✂️ **Trimming** – quick editing built-in  
+- 🆓 **Free** – no cost, no paywalls
+-   
+## 🎞️ Supported Media Types
+```json
+['.mp4', '.webm', '.mkv', '.avi', '.mov']
+['.mp3','.wav','.ogg','.aac','.m4a','.flac','.opus','.weba']
+```
 
 ## 📸 Preview
 ![Preview 1](assets/preview.png)
@@ -36,7 +42,7 @@ The app only collects minimal analytics to improve performance:
 - IP address  
 - Device/software info  
 - App usage events  
-- Video metadata (duration, file type)
+- Media metadata (duration, file type)
 - Errors
 
 No personal files or sensitive data are accessed or stored.
@@ -51,7 +57,7 @@ Download the latest version from the **Releases** section.
 
 ## 💡 Why Timeline?
 
-Most video players are slow, outdated, bloated, or just hard to use.
+Most media players are slow, outdated, bloated, or just hard to use.
 I felt the same, so I built Timeline — and now I’m sharing it with you.
 
 Timeline focuses on:
