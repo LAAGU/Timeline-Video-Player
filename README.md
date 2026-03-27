@@ -16,7 +16,7 @@ A fast, simple, and modern media player built for everyday use.
 - 🆓 **Free** – no cost, no paywalls
 -   
 ## 🎞️ Supported Media Types
-```json
+```js
 ['.mp4', '.webm', '.mkv', '.avi', '.mov']
 ['.mp3','.wav','.ogg','.aac','.m4a','.flac','.opus','.weba']
 ```
