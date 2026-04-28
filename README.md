@@ -13,8 +13,9 @@ A fast, simple, and modern media player built for everyday use.
 - 🎯 **Simple UI** – easy to use, no clutter  
 - ⌨️ **Custom hotkeys** – control your way  
 - ✂️ **Trimming** – quick editing built-in  
-- 🆓 **Free** – no cost, no paywalls
--   
+- 🗜️ Compression – shrink video files without leaving the app
+- ☁️ Upload – send media directly from the app
+- 🆓 Free – no cost, no paywalls
 ## 🎞️ Supported Media Types
 ```js
 ['.mp4', '.webm', '.mkv', '.avi', '.mov']
