@@ -43,7 +43,6 @@ The app only collects minimal analytics to improve performance:
 - IP address  
 - Device/software info  
 - App usage events  
-- Media metadata (duration, file type)
 - Errors
 
 No personal files or sensitive data are accessed or stored.
