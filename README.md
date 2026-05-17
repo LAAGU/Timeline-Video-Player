@@ -15,6 +15,7 @@ A fast, simple, and modern media player built for everyday use.
 - ✂️ **Trimming** – quick editing built-in  
 - 🗜️ Compression – shrink video files without leaving the app
 - ☁️ Upload – send media directly from the app
+- 📃 Caption support
 - 🆓 Free – no cost, no paywalls
 ## 🎞️ Supported Media Types
 ```js
