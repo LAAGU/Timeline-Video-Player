@@ -42,7 +42,7 @@ A fast, simple, and modern media player and screen recorder built for everyday u
 ```
 
 ## 📸 Preview
-![Preview 1](assets/preview.png)
+![Preview 1](assets/preview2.png)
 
 ## 🖥️ Platform
 
