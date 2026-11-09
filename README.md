@@ -8,6 +8,7 @@
 Seek previews, frame-accurate trimming, one-key clips, and watching together in sync.
 
 [![Latest release](https://img.shields.io/github/v/release/LAAGU/Timeline-Video-Player?label=latest&color=0099ff&style=flat-square)](../../releases/latest)
+[![Installer downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Ftimeline.softwaretrinkets.com%2Fapi%2Fbadge%2Fdownloads&style=flat-square)](../../releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-2b2b33?style=flat-square)
 ![Free](https://img.shields.io/badge/price-free-30d158?style=flat-square)
 
