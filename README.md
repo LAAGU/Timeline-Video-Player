@@ -6,7 +6,7 @@
 
 **A fast, free media player and screen recorder for Windows.**<br/>
 Seek previews, frame-accurate trimming, one-key clips, and watching together in sync.<br/>
-<sub>New in 2.0: rebuilt to be tiny (a 4 MB download) and light, using 2-3x less memory.</sub>
+<sub>New in 2.0: rebuilt to be tiny (a 5 MB download) and light, using 2-3x less memory.</sub>
 
 [![Latest release](https://img.shields.io/github/v/release/LAAGU/Timeline-Video-Player?label=latest&color=0099ff&style=flat-square)](../../releases/latest)
 [![Installer downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Ftimeline.softwaretrinkets.com%2Fapi%2Fbadge%2Fdownloads&style=flat-square)](../../releases)
@@ -35,8 +35,9 @@ Seek previews, frame-accurate trimming, one-key clips, and watching together in 
 |  |  |  |
 |---|---|---|
 | 🖼️ **Seek previews**<br/><sub>Hover the timeline to see that moment before you jump.</sub> | ✂️ **Frame-accurate trimming**<br/><sub>Cut the start and end, save a new file. No editor needed.</sub> | ⚡ **One-key clips**<br/><sub>Always keeps the last seconds ready. <kbd>Alt</kbd>+<kbd>F10</kbd> saves them.</sub> |
-| 🔴 **GPU screen recording**<br/><sub>NVIDIA, AMD and Intel encoders: H.264, H.265 and AV1.</sub> | 👥 **Watch together**<br/><sub>A 6-digit code, synced playback and chat. No upload.</sub> | 🪶 **Tiny and light**<br/><sub>A 4 MB download. 2-3x less memory than 1.x.</sub> |
+| 🔴 **GPU screen recording**<br/><sub>NVIDIA, AMD and Intel encoders: H.264, H.265 and AV1.</sub> | 👥 **Watch together**<br/><sub>A 6-digit code, synced playback and chat. No upload.</sub> | 🪶 **Tiny and light**<br/><sub>A 5 MB download. 2-3x less memory than 1.x.</sub> |
 | 📊 **Best settings for my PC**<br/><sub>Recorder settings picked for your graphics card and screen.</sub> | 🎮 **Game benchmark**<br/><sub>Your game's exact FPS, what Timeline costs it, and why frames drop.</sub> | 🆓 **Free**<br/><sub>No account, no ads, nothing else to install.</sub> |
+| 📺 **Streams and free TV**<br/><sub>Any video or stream link, or thousands of free channels.</sub> | 💬 **Captions online**<br/><sub>Find captions for the video you're watching. No account needed.</sub> | 🎨 **Caption style**<br/><sub>Your colour, size, font, outline and background.</sub> |
 
 ---
 
@@ -46,7 +47,7 @@ Timeline 2.0 is rebuilt on a much lighter base (Tauri and Rust instead of Electr
 
 |  | 1.4.4 (Electron + ffmpeg) | **2.0 (Tauri)** |
 |---|---|---|
-| Download | about 260 MB | **about 4 MB** |
+| Download | about 260 MB | **about 5 MB** |
 | Installed size | almost 1 GB | **about 14 MB** |
 | Memory, idle | 179 MB | **108 MB** |
 | Memory while recording | 499 MB | **162 MB** |
@@ -119,7 +120,8 @@ Timeline 2.0 is rebuilt on a much lighter base (Tauri and Rust instead of Electr
 - **Seek previews:** 20 pictures per video, made in the background (they can be switched off).
 - **Frame-accurate trimming** with a Save trim panel and a progress bar. The original file is never changed.
 - **Playback speed** from 0.1x to 16x, **frame stepping**, jump to 10%…100% with the number keys, fullscreen, and **picture-in-picture** in a small window that stays on top.
-- **Captions** (SRT and VTT) with a delay setting.
+- **Captions** (SRT and VTT) with a delay setting, **found online** for the video you're watching (from OpenSubtitles, in your languages, no account needed), and your own **caption style**: colour, size, font, outline, shadow and background.
+- **Streams and free TV:** paste any video or stream link (MP4, HLS `.m3u8` and more), or browse thousands of free channels by country, category or language, each with a green / yellow / red dot showing how fast its server answers. Old broadcast channels (MPEG-2, HEVC, Dolby sound) are converted on your graphics card and play a few seconds behind live without stopping; a **sound sync** setting fixes channels whose sound is off.
 - **Compress** a video to a target size with your graphics card's encoder (NVIDIA, AMD, Intel) or Windows' own, and **upload** it to Gofile to get a link.
 - **Ambient mode:** a soft glow of the video's colours behind the player.
 - **File list** with thumbnails, filters and sorting. Open files from Explorer, or make Timeline your default player.
@@ -167,7 +169,7 @@ Timeline 2.0 is rebuilt on a much lighter base (Tauri and Rust instead of Electr
 </table>
 
 - **Best settings for my PC** looks at your graphics card, screen, CPU and memory, and suggests the encoder, preset, frame rate, resolution and bitrate that record well without slowing your games, each with the reason.
-- **Benchmark:** start it (or press <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> in game), play, and stop. Timeline reads your game's exact frame times (Windows asks once for administrator rights), measures what Timeline itself used, and explains every drop: Timeline, a busy CPU or GPU, or the game itself. Copy the results as text, open them as a graph, or send them to the developer with a note.
+- **Benchmark:** start it (or press <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> in game), play, and stop. Timeline reads your game's exact frame times (Windows asks once for administrator rights), measures what Timeline itself used, and explains every drop: Timeline, a busy CPU or GPU, or the game itself. Graphs show **what else was running** on your PC (CPU, graphics card, memory and disk per app) and your PC's limits; click a drop to see exactly what ran at that moment. That part stays on your PC and is never sent. Copy the results as text, open them as a graph, or send them to the developer with a note.
 
 <details>
 <summary><b>See the benchmark graph</b></summary>
@@ -204,7 +206,7 @@ One window with **General, Player, Recorder, Cache, Logs** and **About**: theme,
 
 ## ⚡ Keyboard shortcuts
 
-Every shortcut can be changed in Settings.
+Every shortcut can be changed in Settings. Recorder shortcuts can also be a **single key** (<kbd>F1</kbd> to <kbd>F24</kbd>, <kbd>Insert</kbd>, <kbd>Home</kbd>, <kbd>Page Up</kbd> …), and the key keeps working in your game or browser too.
 
 | Player | | Recorder (work anywhere) | |
 |---|---|---|---|
@@ -222,7 +224,7 @@ Every shortcut can be changed in Settings.
 ## 📦 Download
 
 1. Get the installer from the **[latest release](../../releases/latest)** (or the [website](https://timeline.softwaretrinkets.com)).
-2. Run it. That's all: everything Timeline needs is in the 4 MB installer.
+2. Run it. That's all: everything Timeline needs is in the 5 MB installer.
 3. Timeline updates itself from GitHub releases, and shows what's new after each update. On 1.x? It moves to 2.0 by itself and keeps your settings.
 
 **Requires** Windows 10 or 11.
@@ -241,6 +243,8 @@ Timeline can share **anonymous usage data** to find bugs and decide what to impr
 | Time zone and language | File names, folders or anything you play or record |
 | How often features are used (counts only) | Web addresses or e-mail addresses |
 | Grouped error messages, with file paths removed | |
+
+**Captions online:** a search sends only the video's file name and a fingerprint to OpenSubtitles, never the video, and only when you press *Search*. **Streams** play straight from the channel's own server.
 
 **Problem reports and benchmarks** are sent to the developer only when you press *Send* (Settings → Logs, Recorder → Performance), with file names, paths and e-mail addresses removed first.
 
